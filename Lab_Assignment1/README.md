@@ -5,6 +5,8 @@ Kara Fitzgerald: 30301723
 Muhammad Anas Nawaz: 30262412
 
 
+link to github: https://github.com/karafitzgerald/ENGG680_2025_Fall/tree/main 
+
 Assignment 1 is broken into 6 main sections, each related to basic concepts covered in ENGG680_L01_2025 lectures.  
 
 Part1: Printing to Console 
