@@ -1,3 +1,15 @@
-This is a sample README.md file. Please edit according to the instructions.
+Team Members, UCID 
+  Tami Adeleke: 30302315 
+  Shehrukh Wasif: 30301927 
+  Kara Fitzgerald: 30301723 
+  Muhammad Anas Nawaz: 30262412
 
-Thanks :D
+link to Github: https://github.com/karafitzgerald/ENGG680_2025_Fall/tree/main
+
+Assignment 2 is broken into 3 main sections, each related to the concepts covered in ENGG680_L01_2025 lectures.
+
+Part 1: Non-Linear Estimation - Least Square Estimation and Gradient Descent
+
+Part 2: Student Depression Prediction using Logistic Regression
+
+Part 3: MNIST Handwritten Digit Classification using MLP and CNN 
