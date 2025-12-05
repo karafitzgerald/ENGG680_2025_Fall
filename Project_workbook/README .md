@@ -12,7 +12,7 @@ The Python Libraries and Machine Learning Models utilized for this project inclu
   3. Scikit Learning
   4. Matplotlib 
   5. Regression Models 
-  6. Baseline Time Series Forecasting 
+  6. Baseline Time Series Forecasting (XGBoost)
   7. Recurring Neural Networks (LSTM)
 
 The documents as part of this submission include 3 data files (.csv), one .ipnyb file, one README file(.mb) and one final report (.pdf). 
